@@ -1,4 +1,4 @@
-#Thu Mar 28 01:21:59 EET 2019
-base.0=D\:\\Documents\\GitHub\\React Native Calculator App\\CalculatorApp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Thu Mar 28 14:38:47 EET 2019
+base.0=D\:\\Documents\\GitHub\\React Native Calculator App\\reactcalculatorapp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

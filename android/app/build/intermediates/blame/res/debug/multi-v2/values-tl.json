@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Documents\\GitHub\\React Native Calculator App\\CalculatorApp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+            "outputFile": "D:\\Documents\\GitHub\\React Native Calculator App\\reactcalculatorapp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\murat\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ef0714f1f8398ea14a77d1bb4d6c2854\\res\\values-tl\\values-tl.xml",
